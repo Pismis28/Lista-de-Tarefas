@@ -1,0 +1,30 @@
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.AssemblyInfoInputs.cache
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.AssemblyInfo.cs
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.csproj.CoreCompileInputs.cache
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.RazorAssemblyInfo.cache
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.RazorAssemblyInfo.cs
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\appsettings.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.staticwebassets.runtime.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.exe
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.deps.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.runtimeconfig.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.dll
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\bin\Debug\net8.0\Projeto Semana 4.pdb
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets\msbuild.Projeto Semana 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeto Semana 4.props
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Semana 4.props
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto Semana 4.props
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\scopedcss\bundle\Projeto Semana 4.styles.css
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\scopedcss\projectbundle\Projeto Semana 4.bundle.scp.css
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.dll
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\refint\Projeto Semana 4.dll
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.pdb
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\Projeto Semana 4.genruntimeconfig.cache
+C:\Users\tiemi.imayoshi\OneDrive - Avanade\Desktop\Decola-Tech\ProjetoTarefas\Projeto Semana 4\obj\Debug\net8.0\ref\Projeto Semana 4.dll

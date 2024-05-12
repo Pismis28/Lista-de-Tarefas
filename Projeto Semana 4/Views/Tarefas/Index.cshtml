@@ -1,0 +1,28 @@
+﻿@model List<Tarefas>
+
+<div class=" text-center">
+	<strong><h2>Lista de Tarefas</h2></strong>
+</div>
+
+
+<p>
+	<a asp-action="Create">Adicionar Tarefa</a>
+</p>
+
+
+		@foreach (var tarefas in Model)
+		{
+			<div class="card d-inline-block" style="width: 18rem; height: 300px; margin-right: 10px;">
+				<img src="@tarefas.CaminhoImagem" class="card-img-top" style="height: 100%;" alt="...">
+				<div class="card-body">
+					<h5 class="card-title">Tarefa: @tarefas.NomeTarefa</h5>
+					<h5 class="card-title">Descrição: @tarefas.Descricao</h5>
+					<h5 class="card-title">Data: @Html.DisplayFor(modelItem => tarefas.Data)</h5>
+					<h5 class="card-title">@tarefas.Status</h5>
+				<a asp-action="Edit" asp-route-id="@tarefas.TarefasID">Editar</a>
+				<a asp-action="Delete" asp-route-id="@tarefas.TarefasID">Deletar</a>
+			</div>
+		</div>
+			
+		}
+

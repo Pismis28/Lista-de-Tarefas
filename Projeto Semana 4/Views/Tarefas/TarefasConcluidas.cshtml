@@ -1,0 +1,19 @@
+﻿@model List<Tarefas>
+
+<h2>Tarefas Concluídas</h2>
+
+<p>
+	<a asp-action="Index">Voltar para Lista de Tarefas</a>
+</p>
+
+@foreach (var tarefas in Model){
+	<div class="card d-inline-block" style="width: 18rem; height: 300px; margin-right: 10px;">
+		<img src="@tarefas.CaminhoImagem" class="card-img-top" style="height: 100%;" alt="...">
+		<div class="card-body">
+			<h5 class="card-title">@tarefas.NomeTarefa</h5>
+			<h5 class="card-title">@tarefas.Descricao</h5>
+			<h5 class="card-title">@tarefas.Data</h5>
+			<h5 class="card-title">@tarefas.Status</h5>
+        </div>
+    </div>
+}
